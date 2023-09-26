@@ -1,0 +1,10 @@
+td {
+  border: 1px solid rgb(121, 9, 104);
+}
+table {
+  border-collapse: collapse;
+}
+
+.ja {
+  text-align: center;
+}
